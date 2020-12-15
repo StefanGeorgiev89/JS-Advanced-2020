@@ -7,6 +7,8 @@ tmp/**
 logs/**
 nohup*
 subl_*
+node_modules/*.*
+.package-lock.js
 
 # all hidden files, except...
 .*
